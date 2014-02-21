@@ -1,0 +1,11 @@
+{
+    "name": "dpeuscher/dp-profiler",
+    "description": "Profiler-Library",
+    "license": "GPL-2.0",
+    "require": {
+        "php": ">=5.4",
+        "zendframework/zendframework": "2.3.x-dev",
+        "predis/predis": "dev-master",
+        "dpeuscher/dp-zf-extensions": "dev-master"
+    }
+}
